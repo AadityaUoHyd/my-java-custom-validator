@@ -28,3 +28,9 @@
     "dept": "department should not be empty",
     "doj": "your date of joining must be earlier than current date"
 }
+
+- For happy path, postman screenshot :
+ ![](https://github.com/AadityaUoHyd/my-java-custom-validator/blob/master/my-custom-validation/postman-success.jpg)
+ 
+ - When we provide wrong employeeType, our validator catches it and displays our custom message, postman screenshot :
+ ![](https://github.com/AadityaUoHyd/my-java-custom-validator/blob/master/my-custom-validation/postman-failure.jpg)
